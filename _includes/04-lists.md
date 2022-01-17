@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. My Dog
+2. My Xbox
+3. MyLego Collection
